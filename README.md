@@ -1,2 +1,2 @@
 # 깃허브를 꾸며보아요
-https://img.shields.io/static/v1?label=<LABEL>&message=Java&color=green
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
