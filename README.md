@@ -16,3 +16,6 @@
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theci&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=theci&show_icons=true">
 </div>
+
+
+![snake gif](https://github.com/theci/theci/blob/output/github-contribution-grid-snake.svg)
