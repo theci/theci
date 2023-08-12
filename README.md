@@ -1,10 +1,9 @@
 # 👨‍💻 Nice to meet you!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ChangHoon&fontSize=50" />
+
 
 
 <div align="center">
-	반갑습니다!
-	클라우드에 관심을 가지고 주력으로 공부하고 있습니다!
+	클라우드
 </div>
 
 
@@ -21,7 +20,7 @@
 <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=AWS&logoColor=white"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C70F7&width=435&lines=AWS+Terraform+Kubernetes" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=AWS+Terraform+Kubernetes" alt="Typing SVG" /></a>
 
 
 ## 📝 Portfolio 📝
