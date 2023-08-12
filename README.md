@@ -18,4 +18,3 @@
 </div>
 
 
-<img src="https://github.com/theci/theci/blob/output/github-contribution-grid-snake.svg"/>
