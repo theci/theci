@@ -23,17 +23,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=AWS+Terraform+Kubernetes" alt="Typing SVG" /></a>
 
 
-## 📝 Portfolio 📝
-
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://easyhomputer.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-</div>
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hihi-data&theme=default)](https://hihi-data.tistory.com)
-
 
 ## 🎮 Commit Snake 🎮
 
