@@ -1,11 +1,4 @@
-## 👋 Nice to meet you!
-
-
-
-<div align="center">
-	클라우드
-</div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Nice+to+meet+you!+%F0%9F%91%8B+;Have+a+nice+day!+" alt="Typing SVG" /></a>
 
 ## 🛠 Tech Stack 🛠
 <div align="center">
@@ -20,7 +13,7 @@
 <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=AWS&logoColor=white"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=AWS+Terraform+Kubernetes" alt="Typing SVG" /></a>
+
 
 
 
