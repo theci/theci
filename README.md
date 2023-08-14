@@ -1,19 +1,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Nice+to+meet+you!+%F0%9F%91%8B+;Have+a+nice+day!+" alt="Typing SVG" /></a>
 
-## 🛠 Tech Stack 🛠
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
-                 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftheci&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3178C6?style=flat&logo=AWS&logoColor=white"/>
+<h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
 
+<h4 align="center"><b>🎮 WEB 🎮</b></h4>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Django-232F3E?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
+<!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 
+<h4 align="center"><b>🎮 Cloud & Infra 🎮</b></h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Terraform-8904B1?style=flat-square&logo=Terraform&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Docker-A9E2F3?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Kubernetes-0040FF?style=flat-square&logo=Kubernetes&logoColor=white"/></a> &nbsp </p>
+</p>
 
 
 
