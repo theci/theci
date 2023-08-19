@@ -2,7 +2,7 @@
 
 <h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
 
-<h4 align="center"><b>🎮 WEB 🎮</b></h4>
+<h4 align="center"><b>🌏 WEB 🌏</b></h4>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 
-<h4 align="center"><b>🎮 Cloud & Infra 🎮</b></h4>
+<h4 align="center"><b>☁ Cloud & Infra ☁</b></h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Terraform-8904B1?style=flat-square&logo=Terraform&logoColor=white"/></a> &nbsp
