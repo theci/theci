@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 
-<h4 align="center"><b>☁ Cloud & Infra ☁</b></h4>
+<h4 align="center"><b>🔔 Cloud & Infra 🔔</b></h4>
 <p align="center">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Terraform-8904B1?style=flat-square&logo=Terraform&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Docker-A9E2F3?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Kubernetes-0040FF?style=flat-square&logo=Kubernetes&logoColor=white"/></a> &nbsp </p>
